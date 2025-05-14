@@ -1,6 +1,6 @@
 # hello-generator
 
-A simple CLI tool that generates a "hello.js" file with a Hello World program.
+A simple CLI tool that generates a "hello.js" file with a Hello World program, in console.log
 
 ## Installation
 
