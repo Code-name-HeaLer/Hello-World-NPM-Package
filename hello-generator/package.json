@@ -1,0 +1,22 @@
+{
+  "name": "hello-generator",
+  "version": "1.0.0",
+  "description": "CLI tool to generate a Hello World JavaScript file",
+  "main": "lib/index.js",
+  "bin": {
+    "hello-gen": "./bin/hello-gen.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "hello-world",
+    "generator"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
